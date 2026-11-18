@@ -22,3 +22,7 @@ To regenerate the artwork itself with Pillow:
 ```bash
 /data/workspace/commons-demo/.venv/bin/python generate_entry.py
 ```
+
+## Credits
+
+Artwork and script by adofl for the make.fun news-image-20261117 bounty. Story summaries are based on verified reports from 17 November 2026.
