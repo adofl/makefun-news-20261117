@@ -9,3 +9,4 @@ const destination = join(outputDir, "entry.png");
 
 mkdirSync(outputDir, { recursive: true });
 copyFileSync(source, destination);
+console.log(`Copied entry.png to ${destination}`);
